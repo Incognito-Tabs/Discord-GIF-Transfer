@@ -58,4 +58,4 @@
 By following these steps, you should be able to successfully transfer GIFs between the source and destination accounts using the provided script.
 
 ### Why I Made This
-I got tired of no method available on how to transfer GIFs other than the outdated 2021 method of 'LOCAL STORAGE,' which no longer works because Discord sucks. Your motivation for creating a method to transfer GIFs between accounts is understandable, especially if you found existing methods to be outdated or no longer functional. Discord's policies and features can change over time, making it necessary for users to adapt and find new solutions.
+I got tired of no method available on how to transfer GIFs other than the outdated 2021 method of 'LOCAL STORAGE,' which no longer works because Discord sucks.
