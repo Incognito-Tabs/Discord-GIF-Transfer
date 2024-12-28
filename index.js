@@ -1,5 +1,5 @@
 const Axios 			= require("axios")
-const Info				= require("./Config.json")
+const Info			= require("./Config.json")
 
 if (Info.Collection == "") return console.log("Collection Empty")
 if (Info.Token == "") return console.log("Token Empty")
